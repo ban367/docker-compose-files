@@ -32,6 +32,6 @@ $RECYCLE.BIN/
 
 # project
 /mongo/data/*
-/mysql/data/*
+/mysql/data/mysql/*
 /redis/data/*
 !.gitkeep
